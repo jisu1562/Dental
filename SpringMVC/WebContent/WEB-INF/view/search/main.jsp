@@ -14,7 +14,7 @@
 		</c:forEach>
 	</select>
 	<input type="text" name="query" value=""/>
-	<input type="submit" value="검색" />
+	<input type="submit" value="검색" />111111111111111111
 	</form>
 	</body>
 	</html>
